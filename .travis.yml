@@ -1,5 +1,6 @@
 script:
-  - echo "Nothing yet"
+  # Download and unzip
+  - ./download.sh
 
 after_success:
   # Download thesis
