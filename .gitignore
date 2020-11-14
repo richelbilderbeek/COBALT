@@ -37,3 +37,10 @@ config.cache
 Makefile
 ReleaseMT/
 config.log
+src/corelib/test/
+src/ctools/
+src/db/
+src/gui/
+src/internal/
+src/sample/
+src/sra/
