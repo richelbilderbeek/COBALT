@@ -1,6 +1,5 @@
 script:
-  # Download and unzip
-  - ./download.sh
+  - ./configure
 
 after_success:
   # Download thesis
