@@ -1,5 +1,6 @@
 script:
   - ./configure
+  - make
 
 after_success:
   # Download thesis
