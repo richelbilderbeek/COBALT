@@ -32,3 +32,8 @@
 *.app
 ncbi-cobalt-2.1.0-src.tar.gz
 ncbi-cobalt-2.1.0-src
+confdefs.h
+config.cache
+Makefile
+ReleaseMT/
+config.log
